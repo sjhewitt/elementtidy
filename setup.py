@@ -6,7 +6,7 @@
 # Usage: python setup.py install
 #
 
-from distutils.core import setup, Extension
+from setuptools import setup, Extension
 
 NAME = "elementtidy"
 VERSION = "1.0-20050212"
